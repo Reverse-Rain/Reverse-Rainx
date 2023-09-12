@@ -1,16 +1,27 @@
 <h1 align="center">Hi there 👋, I'm Sebin</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">I am a passionate  developer</h3>
 
-- 🌱 I’m currently learning **Artificial intelligence and data science**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python**
+
+# About me
+
+- 🌱 I’m currently learning **ARTIFICIAL INTELLIGENCE AND DATA SCIENCE ENGINEERING**
+
+- 💬 Ask me about **AI,DATA SCIENCE, DEEP LEARNING, MACHINE LEARNING,PYTHON**
+  
+- 👨🏼‍💻 Programming languages **Python,C,JS,PHP**
+
+- 🖌️ Designing  **HTML,CSS,JS,BOOTSTRAP**
 
 - 📫 How to reach me: [nthn8777@gmail.com](mailto:nthn8777@gmail.com)
 
 <!---[![trophy](https://github-profile-trophy.vercel.app/?username=Reverse-Rain&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)---->
 
+  
+![Club.456 Logo](https://media.licdn.com/dms/image/D560BAQGEsYHvkXZtyw/company-logo_100_100/0/1692280374632?e=1702512000&v=beta&t=MJV2FXQXTynvUmm0vcxL7gyx703Rhj_1DR6KmzISYz8 )    
 
+<h3 >Co-founder & Web-lead @ CLUB.456<h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
