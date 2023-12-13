@@ -31,7 +31,6 @@
 <h3 align="left">Follow me on:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sebinmon/">LinkedIn</a> |
-  <a href="https://twitter.com/sebinmon">Twitter</a> |
   <a href="https://github.com/sebinmon">GitHub</a>
 </p>
 ## publications
