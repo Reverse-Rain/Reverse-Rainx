@@ -7,7 +7,14 @@
 </h1>
 
 
-
+<!-- Add badges section -->
+<p align="left">
+    <img src="https://img.shields.io/github/followers/Reverse-Rain?label=Follow&style=social" alt="GitHub followers"/>
+    <!-- Add more badges as per your achievements -->
+    <img src="https://img.shields.io/badge/Contributor-GitHub-yellow" alt="GitHub contributor badge"/>
+    <img src="https://img.shields.io/badge/Star-GitHub-blue" alt="GitHub star badge"/>
+    <!-- Add more badges for other achievements -->
+</p>
 
 
 
